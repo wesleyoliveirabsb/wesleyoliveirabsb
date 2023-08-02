@@ -12,8 +12,8 @@ Sou desenvolvedor Front-end e atualmente estou procurando aprimorar minhas habil
 </br>
 </br>
 <div align="center">
-  <img src="github-readme-stats-y5tr.vercel.app/api?username=wesleyoliveirabsb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height=195px src="github-readme-stats-y5tr.vercel.app/api/top-langs/?username=wesleyoliveirabsb&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats-y5tr.vercel.app/api?username=wesleyoliveirabsb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height=195px src="https://github-readme-stats-y5tr.vercel.app/api/top-langs/?username=wesleyoliveirabsb&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align='center'>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=wesleyoliveirabsb&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
